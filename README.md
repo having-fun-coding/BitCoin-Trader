@@ -6,3 +6,5 @@ The purpose of this project is to build an application to buy and sell Bitcoins.
 # Team Members
 
 [Frank DelPidio](www.github.com/fdel15)
+
+[Jeffrey Collins] (https://github.com/having-fun-coding)
